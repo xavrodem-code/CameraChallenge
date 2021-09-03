@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a5ef67c0de2c3b44ebe02b313095e05d
+  - enabled: 1
+    path: Assets/Scenes/LivingRoom.unity
+    guid: dd1f2c45eb8a5f445b921d23c76995bf
+  - enabled: 1
+    path: Assets/Scenes/Kitchen.unity
+    guid: 20944ae112677db4e92e35d1cf64d393
+  - enabled: 1
+    path: Assets/Scenes/Garden.unity
+    guid: 48811ba5ad2bf29408c1c5fff1f02d09
+  - enabled: 1
+    path: Assets/Scenes/CameraAccess.unity
+    guid: 638fc6560bf13d94ea03ffafd336a0e2
+  - enabled: 1
+    path: Assets/Scenes/DownloadedImage.unity
+    guid: d78c6f60bebba5a419b2677e3c03a031
+  m_configObjects: {}
